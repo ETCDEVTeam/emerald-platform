@@ -1,4 +1,4 @@
-# Emerald Project
+# Emerald Platform
 
 Platform for building Dapps for ETC blockchain
 
